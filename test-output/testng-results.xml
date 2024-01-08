@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-08T12:24:40 IST" name="Default suite" finished-at="2024-01-08T12:24:45 IST" duration-ms="4786">
+  <suite started-at="2024-01-08T16:11:06 IST" name="Default suite" finished-at="2024-01-08T16:11:17 IST" duration-ms="11741">
     <groups>
     </groups>
-    <test started-at="2024-01-08T12:24:40 IST" name="Default test" finished-at="2024-01-08T12:24:45 IST" duration-ms="4786">
-      <class name="TestCases.LoginTest">
-        <test-method signature="loginWithWrongCredentials()[pri:0, instance:TestCases.LoginTest@4944252c]" started-at="2024-01-08T12:24:40 IST" name="loginWithWrongCredentials" finished-at="2024-01-08T12:24:45 IST" duration-ms="4743" status="PASS">
+    <test started-at="2024-01-08T16:11:06 IST" name="Default test" finished-at="2024-01-08T16:11:17 IST" duration-ms="11741">
+      <class name="TestCases.ProductItemTest">
+        <test-method signature="ProductTest()[pri:0, instance:TestCases.ProductItemTest@72cde7cc]" started-at="2024-01-08T16:11:06 IST" name="ProductTest" finished-at="2024-01-08T16:11:17 IST" duration-ms="11697" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginWithWrongCredentials -->
-      </class> <!-- TestCases.LoginTest -->
+        </test-method> <!-- ProductTest -->
+      </class> <!-- TestCases.ProductItemTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
