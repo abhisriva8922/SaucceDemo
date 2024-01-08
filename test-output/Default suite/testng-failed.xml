@@ -5,7 +5,7 @@
     <classes>
       <class name="TestCases.LoginTest">
         <methods>
-          <include name="loginWithWrongPassword"/>
+          <include name="loginWithWrongCredentials"/>
         </methods>
       </class> <!-- TestCases.LoginTest -->
     </classes>
