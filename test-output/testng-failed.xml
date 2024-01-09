@@ -5,7 +5,7 @@
     <classes>
       <class name="TestCases.ProductItemTest">
         <methods>
-          <include name="CheckoutTest"/>
+          <include name="ProductTest"/>
         </methods>
       </class> <!-- TestCases.ProductItemTest -->
     </classes>

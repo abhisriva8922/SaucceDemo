@@ -72,7 +72,7 @@ public class VerifySingleProduct {
 		System.out.println("Product Price - " + productPriceBeforeCheckout);
 		Assert.assertEquals(productName, productNameBeforeCheckout, "Product name is different");
 		Assert.assertEquals(productPrice, productPriceBeforeCheckout, "Product price is different");
-
+		
 		WebElement checkoutButton = driver.findElement(By.id("checkout"));
 		checkoutButton.click();
 
